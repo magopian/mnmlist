@@ -92,16 +92,16 @@ Foire Aux Questions
 ~~~~~~~~~~~~~~~~~~~
 
 Q : Pourquoi n'y a-t-il ni entête, ni barre latérale, ni commentaires ?
-    **A** : Je l'ai intentionnellement gardé aussi minimal que possible. J'ai enlevé toutes les fonctionnalités que je ne voulais pas. Si vous voulez plus de fonctionnalités, je vous suggère de choisir un autre thème. Ce thème permet aux lecteurs de se concentrer sur le contenu, et rien d'autre.
+    **R** : Je l'ai intentionnellement gardé aussi minimal que possible. J'ai enlevé toutes les fonctionnalités que je ne voulais pas. Si vous voulez plus de fonctionnalités, je vous suggère de choisir un autre thème. Ce thème permet aux lecteurs de se concentrer sur le contenu, et rien d'autre.
 
 Q : Comment je change les liens dans le pied de page ?
-    **A** : Les instructions sont dans le fichier "Read Me" du thème, mais en fait il suffit de cliquer sur "Footer" dans l'éditeur de thème de WordPress. Vous verrez les liens vers "uncopyright" et ce thème. Soyez libre de mettre votre propre information de copyright ou quoi que ce soit dans le pied de page. Aucun besoin de garder le crédit non plus, mais je ne vous en voudrais pas si vous le faites.
+    **R** : Les instructions sont dans le fichier "Read Me" du thème, mais en fait il suffit de cliquer sur "Footer" dans l'éditeur de thème de WordPress. Vous verrez les liens vers "uncopyright" et ce thème. Soyez libre de mettre votre propre information de copyright ou quoi que ce soit dans le pied de page. Aucun besoin de garder le crédit non plus, mais je ne vous en voudrais pas si vous le faites.
 
 Q : Comment je centre l'agencement au lieu de l'avoir complètement à gauche ?
-    **A** : dans "Stylesheet", tout en haut, ajoutez "margin: 0 auto;" dans les accolades de la ligne ``#container``. Je pense que ça devrait faire l'affaire mais je peux me tromper.
+    **R** : dans "Stylesheet", tout en haut, ajoutez "margin: 0 auto;" dans les accolades de la ligne ``#container``. Je pense que ça devrait faire l'affaire mais je peux me tromper.
 
 Q : Comment je rajoute des images dans les billets ?
-    **A** : Utilisez la balise ``img``. J'ai tendance à les mettre vers le haut des billets, avant de commencer à l'écrire. Voici un exemple :
+    **R** : Utilisez la balise ``img``. J'ai tendance à les mettre vers le haut des billets, avant de commencer à l'écrire. Voici un exemple :
 
     .. code-block:: html
 
@@ -113,7 +113,7 @@ Q : Comment je rajoute des images dans les billets ?
     Voilà pour l'image mais aussi pour le crédit de la photo sous l'image.
 
 Q : Comment je rajoute des commentaires dans le thème ?
-    **A** : C'est un peu plus compliqué, mais c'est faisable. Je ne peux vous donner des instructions détaillées ici, mais en un mot, ce que vous devrez faire :
+    **R** : C'est un peu plus compliqué, mais c'est faisable. Je ne peux vous donner des instructions détaillées ici, mais en un mot, ce que vous devrez faire :
 
     #. Trouvez un thème qui utilise des commentaires de la manière qui vous convienne.
     #. Copiez le fichier ``comments.php`` dans le répertoire du thème mnmlist.
