@@ -19,11 +19,11 @@ C'est à propos de la culture du plus, du plus grand, de la consommation.
 C'est à propos de comment moins est la réponse.
 
 
-Plus à propos de mnmlist : 
+En savoir plus à propos de mnmlist : 
 
 * Lire la `FAQ <../faq.html>`_.
 * Ce blog est `uncopyrighted <../sans-copyright.html>`_.
-* Jetez un œil sur les `liens mnmlist <../liens.html>`_.
+* Jetez un œil sur les `liens mnmlist <http://mnmlist.com/links/>`_ (non traduit).
 * Lisez d'`excellentes citations <../citations.html>`_
 * `Inscrivez-vous <../feeds/all.atom.xml>`_ via RSS.
 * Apprenez-en plus à propos du `thème mnmlist <../theme.html>`_ pour WordPress.
