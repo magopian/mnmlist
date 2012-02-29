@@ -1,0 +1,7 @@
+RewriteEngine on
+# 2011/01/<titre>/ => /<titre>.html
+RewriteRule ^\d{4}/\d{2}/([^/]+)/? /blog/$1.html [L,R=301]
+# /about => /a-propos.html
+RewriteRule ^about/? /blog/pages/a-propos.html [L,R=301]
+# /feed => /feeds/all.atom.xml
+RewriteRule ^feed/?$ /blog/feeds/all.atom.xml [L,R=301]
