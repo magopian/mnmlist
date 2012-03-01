@@ -57,6 +57,8 @@ Q : N'est vous pas en contradiction en proclamant être un minimaliste alors que
 
     Le bon côté est que je crois que même avec six enfants — être végétalien, acheter moins de choses, être attentif à l'énergie, n'avoir pas de voiture, marcher plus pour me déplacer – j'utilise en fait moins de ressources que la personne moyenne dans un pays industrialisé (et bien moins que l'américain moyen) – et ceci d'après les calculateurs en ligne de l'empreinte carbone. Ce n'est pas une justification pour le fait d'avoir six enfants, mais juste une précision disant que les choses ne sont pas aussi mauvaises qu'elles pourraient l'être.
 
+.. _pourquoi-pas-de-commentaires:
+
 Q : Pourquoi n'avez-vous pas de commentaires sur ce site ?
     **R** : J'ai intentionnellement omit les commentaires sur ce site pour plusieurs raisons :
 
