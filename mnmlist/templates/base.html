@@ -21,18 +21,18 @@
 
 </head>
 
-<body id="index" class="home">
+<body>
 {% include 'github.html' %}
         {% block content %}
         {% endblock %}
 
-        <footer id="contentinfo" class="body">
+        <footer>
                 <nav><ul>
                 {% for page in PAGES %}
                     <li><a href="{{ SITEURL }}/pages/{{ page.url }}">{{ page.title }}</a>{% if not loop.last %} ::{% endif %}</li>
                 {% endfor %}
                 </ul></nav>
-        </footer><!-- /#contentinfo -->
+        </footer>
 
 {% include 'analytics.html' %}
 {% include 'piwik.html' %}
