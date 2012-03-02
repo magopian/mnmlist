@@ -13,7 +13,6 @@ Une capture d'écran :
 
 .. image:: images/screenshot3.png
     :alt: Capture d'écran du thème en version 3
-    :align: center
 
 Le **thème mnmlist** est dépouillé, ne gardant que les bases, sans aucune distraction par rapport au contenu. Ses particularités sont :
 
@@ -69,7 +68,6 @@ Voici une capture d'écran :
 
 .. image:: images/v2screenshot.png
     :alt: Capture d'écran du thème en version 2
-    :align: center
 
 
 Version 1
