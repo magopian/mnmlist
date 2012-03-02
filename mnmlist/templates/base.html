@@ -27,11 +27,20 @@
         {% endblock %}
 
         <footer>
-                <nav><ul>
+            <nav>
+                <ul>
                 {% for page in PAGES %}
                     <li><a href="{{ SITEURL }}/pages/{{ page.url }}">{{ page.title }}</a>{% if not loop.last %} ::{% endif %}</li>
                 {% endfor %}
-                </ul></nav>
+                {% if categories|length > 1 %}
+                    <li>:: <a href="{{ SITEURL }}/categories.html">Catégories</a></li>
+                {% endif %}
+                {% if tags|length > 1 %}
+                    <li>:: <a href="{{ SITEURL }}/tags.html">Tags</a></li>
+                {% endif %}
+                </ul>
+            </nav>
+                <p id="theme-credit"><a href="http://mathieu.agopian.info/mnmlist/theme.html">Thème mnmlist</a></p>
         </footer>
 
 {% include 'analytics.html' %}
