@@ -9,3 +9,4 @@ SITEURL = "http://mathieu.agopian.info/mnmlist"
 TWITTER_USERNAME = "magopian"
 TIMEZONE = "Europe/Paris"
 DEFAULT_CATEGORY = 'mnmlist'
+THEME = 'mnmlist'
