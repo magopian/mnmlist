@@ -10,5 +10,6 @@ DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 #WITH_PAGINATION = True
 TWITTER_USERNAME = "magopian"
 TIMEZONE = "Europe/Paris"
-DEFAULT_CATEGORY = 'mnmlist'
+DEFAULT_CATEGORY = '../pelican-themes/mnmlist'
 THEME = 'mnmlist'
+HIDE_DATE = True
