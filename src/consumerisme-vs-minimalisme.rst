@@ -1,5 +1,6 @@
 Consumérisme vs minimalisme
 ###########################
+:date: 2012-03-03 08:36
 
 Traduction de http://mnmlist.com/consumerism-vs-minimalism/.
 

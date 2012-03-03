@@ -1,5 +1,6 @@
 Repenser les nécessités
 #######################
+:date: 2012-03-03 08:32
 
 Traduction de http://mnmlist.com/rethinking-necessities/.
 

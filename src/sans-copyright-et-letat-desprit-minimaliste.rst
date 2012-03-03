@@ -1,5 +1,6 @@
 Sans copyright et l'état d'esprit minimaliste
 #############################################
+:date: 2012-03-03 08:30
 
 Traduction de http://mnmlist.com/uncopyright-and-a-minimalist-mindset/.
 

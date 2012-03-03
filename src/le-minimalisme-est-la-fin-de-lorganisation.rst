@@ -1,5 +1,6 @@
 Le minimalisme est la fin de l'organisation
 ###########################################
+:date: 2012-03-03 08:35
 
 Traduction de http://mnmlist.com/minimalism-is-the-end-of-organizing/.
 

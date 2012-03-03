@@ -1,5 +1,6 @@
 Pourquoi moins de choses c'est mieux
 ####################################
+:date: 2012-03-03 08:33
 
 Traduction de http://mnmlist.com/why-less-stuff-is-better/.
 
