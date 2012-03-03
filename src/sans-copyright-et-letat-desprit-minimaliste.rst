@@ -3,7 +3,7 @@ Sans copyright et l'état d'esprit minimaliste
 
 Traduction de http://mnmlist.com/uncopyright-and-a-minimalist-mindset/.
 
-Comme certains le savent, je ne suis pas un grand fan du copyright. En fait, j'ai `enlevé le copyright <../sans-copyright.html>`_ de ce blog ainsi que de mon autre blog, `Zen Habits <http://zenhabits.net/>`_.
+Comme certains le savent, je ne suis pas un grand fan du copyright. En fait, j'ai `enlevé le copyright <../pages/sans-copyright.html>`_ de ce blog ainsi que de mon autre blog, `Zen Habits <http://zenhabits.net/>`_.
 
 Et bien que l'absence de copyright et le minimalisme ont l'air sans rapport, je pense qu'ils sont tous les deux issus du même état d'esprit.
 

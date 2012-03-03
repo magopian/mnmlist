@@ -22,7 +22,7 @@ C'est à propos de comment moins est la réponse.
 En savoir plus à propos de mnmlist : 
 
 * Lire la `FAQ <../faq.html>`_.
-* Ce blog est `uncopyrighted <../sans-copyright.html>`_.
+* Ce blog est `sans copyright <../pages/sans-copyright.html>`_.
 * Jetez un œil sur les `liens mnmlist <http://mnmlist.com/links/>`_ (non traduit).
 * Lisez d'`excellentes citations <../citations.html>`_
 * `Inscrivez-vous <../feeds/all.atom.xml>`_ via RSS.
