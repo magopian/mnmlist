@@ -3,6 +3,8 @@ Thème
 
 Traduction de http://mnmlist.com/theme/.
 
+(NdT : si vous cherchez la version du thème adaptée pour `pelican <https://github.com/ametaireau/pelican>`_, elle est disponible sur le `dépôt github <https://github.com/ametaireau/pelican-themes/tree/master/mnmlist>`_).
+
 Nouveau : la version trois du thème mnmlist est là !
 
 J'ai développé un joli thème WordPress minimaliste pour mnmlist.com, et j'aimerais le partager avec mes camarades blogueurs.
