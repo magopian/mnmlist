@@ -1,5 +1,5 @@
-Comment lâcher priser sur ses biens
-###################################
+Comment lâcher prise sur ses biens
+##################################
 :date: 2012-03-06 19:55
 
 Traduction de http://mnmlist.com/how-to-let-go-of-possessions/.
