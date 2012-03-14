@@ -1,6 +1,7 @@
 Si vous deviez déménager, que prendriez-vous ?
 ##############################################
 :date: 2012-03-03 08:31
+:slug: si-vous-deviez-demenager-que-prendriez-vous
 
 Traduction de http://mnmlist.com/if-you-had-to-move-what-would-you-take/.
 

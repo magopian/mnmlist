@@ -1,6 +1,7 @@
 Devenir minimal : toutes les infos à suivre
 ###########################################
 :date: 2012-03-06 09:06
+:slug: devenir-minimal-toutes-les-infos-a-suivre
 
 Traduction de http://mnmlist.com/getting-to-minimal-all-the-info-you-need-to-track/.
 
