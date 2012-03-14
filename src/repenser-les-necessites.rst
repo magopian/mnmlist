@@ -20,7 +20,7 @@ Vous apprenez à vous contenter de ce que vous avez déjà, du nécessaire, en f
 
 Mais c'est marrant, parce que souvent des choses que nous estimons être des nécessités ne le sont pas forcément. Le problème est que nous catégorisons les choses en tant que nécessités parce-que nous sommes habitués à les avoir, et nous ne voyons pas comment vivre sans. Et c'est difficile de faire de gros changements.
 
-Quelques exemples :
+Quelques exemples :
 
 * **Une voiture**. La voiture est un besoin, mais étonnamment des gens arrivaient à vivre bien sans elle depuis un bon moment jusqu'au 20ème siècle. Et même aujourd'hui, `des personnes <http://carfreefamily.blogspot.com/>`_ se débrouillent pour être `sans voiture <http://daily.sightline.org/daily_score/series/the-year-of-living-car-lessly-experiment>`_. Ce n'est pas impossible — spécialement si vous vivez dans un endroit avec des transports publics décents. Et il y a maintenant la possibilité de partager une voiture dans beaucoup de villes, pour utiliser une voiture quand vous en avez besoin, pour beaucoup moins cher que si vous en possédiez une. C'est possible de prendre le vélo ou marcher pour aller dans la plupart des endroits, et utiliser les transports en commun et les voiture partagées partout ailleurs.
 
@@ -30,4 +30,4 @@ Quelques exemples :
 
 * **Une grande maison**. Ayez moins de choses, vous aurez moins besoin de maison.
 
-Ce ne sont que quelques exemples — réfléchissez à toutes les choses que vous considérez être des nécessités. Est-ce qu'elles le sont vraiment ? De quoi avons-nous vraiment besoin, en dehors de la nourriture, d'un abri, de vêtements simples, et d'êtres chers ?
+Ce ne sont que quelques exemples — réfléchissez à toutes les choses que vous considérez être des nécessités. Est-ce qu'elles le sont vraiment ? De quoi avons-nous vraiment besoin, en dehors de la nourriture, d'un abri, de vêtements simples, et d'êtres chers ?

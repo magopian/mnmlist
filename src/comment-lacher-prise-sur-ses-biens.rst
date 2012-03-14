@@ -12,7 +12,7 @@ C'est dur, je ne mentirais pas.
 
 Lâcher prise peut procurer un incroyable soulagement, et quand on le fait, on se sent libre et léger. Mais s'autoriser à lâcher prise est une chose émotionnelle, et comme tout ce qui est émotionnel, ce n'est pas toujours facile.
 
-Il y a plusieurs raisons émotionnelles qui nous rendent la tâche difficile pour le lâcher prise sur nos biens. Quelques temps en arrière, j'ai lu une excellente série sur `lâcher prise sur ses vêtements <http://jenniferskinner.blogspot.com/2008/05/learning-to-let-go.html>`_ de *The Very Small Closet*, et plusieurs raisons sont données pour cette difficulté : 
+Il y a plusieurs raisons émotionnelles qui nous rendent la tâche difficile pour le lâcher prise sur nos biens. Quelques temps en arrière, j'ai lu une excellente série sur `lâcher prise sur ses vêtements <http://jenniferskinner.blogspot.com/2008/05/learning-to-let-go.html>`_ de *The Very Small Closet*, et plusieurs raisons sont données pour cette difficulté : 
 
 * Nous avons des souvenirs et de bonnes émotions associées à ces possessions;
 * Nous avons dépensé de l'argent sur ces objets, ce qui veut dire qu'on a loupé d'autres occasions de dépenser cet argent, et nous haïssons penser qu'on a pu louper des opportunités;
@@ -22,7 +22,7 @@ Il y a plusieurs raisons émotionnelles qui nous rendent la tâche difficile pou
 
 Comme vous pouvez le constater, il y a beaucoup qui contribue à ces liens avec nos possessions. Vous noterez aussi que les deux premiers éléments sont associés avec le passé, les deux suivants sont associés avec le futur, et seulement le dernier traite du présent.
 
-Il y a deux manières de combattre ces craintes, afin d'être libres d'abandonner nos possessions :
+Il y a deux manières de combattre ces craintes, afin d'être libres d'abandonner nos possessions :
 
 #. **Se concentrer sur le présent**. Bien entendu, nous pourrions avoir des sentiments à propos du passé, et nous soucier d'opportunités manquées, mais c'est du passé. Si on se concentre sur le présent — en appréciant ce moment, sans le besoin pour toutes ces possessions, nous pouvons lâcher prise sur le passé. Être heureux maintenant, sans être lié à des souvenirs ou des occasions manquées dans le passé. Si nous restons prisonniers du passé, nous raterons les opportunités du présent.
     

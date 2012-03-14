@@ -14,7 +14,7 @@ Traduction de http://mnmlist.com/how-to-be-less-busy-in-a-busy-busy-world/.
 
 La plupart d'entre nous sont très occupés, à peu près tous les jours.
 
-Certains aiment ça — être occupé est presque un symbole de statut social, car il montre que vous êtes important, productif, fonceur et performant. Si vous êtes dans une réunion importante et que vous envoyez des mails sur votre Blackberry et passez des appels, vous êtes obligatoirement important, n'est-ce pas ?
+Certains aiment ça — être occupé est presque un symbole de statut social, car il montre que vous êtes important, productif, fonceur et performant. Si vous êtes dans une réunion importante et que vous envoyez des mails sur votre Blackberry et passez des appels, vous êtes obligatoirement important, n'est-ce pas ?
 
 Je pense que nous devrions rejeter ce petit jeu du qui est plus occupé que qui. Nous devrions nous retirer. Nous devrions dire, “Je préfère trouver la tranquillité d'esprit, être capable de me détendre et de vraiment apprécier la vie, plutôt que de permettre que ça me passe à côté juste pour que je puisse être ‘productif’ et montrer à tout le monde à quel point je suis important.”
 
@@ -24,11 +24,11 @@ Ok, peut-être que nous pourrions dire quelque chose de plus court à la place. 
 Pourquoi être occupé et un attrape nigaud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Le problème avec être occupé, c'est que ça n'a pas de fin. Vous ne vous en sortirez jamais (a moins de faire un effort très conscient), parce qu'il n'y a pas de fin à la liste de tâches, aux emails, tchats et appels téléphoniques, réunions et encore réunions, et oui, encore des réunions. Nous sommes comme des hamsters dans une roue, tournant sans but, à part celui de rendre notre patron heureux, faire de l'argent pour quelqu'un d'autre, ou peut-être faire de l'argent pour nous-même … mais dans quel but ?
+Le problème avec être occupé, c'est que ça n'a pas de fin. Vous ne vous en sortirez jamais (a moins de faire un effort très conscient), parce qu'il n'y a pas de fin à la liste de tâches, aux emails, tchats et appels téléphoniques, réunions et encore réunions, et oui, encore des réunions. Nous sommes comme des hamsters dans une roue, tournant sans but, à part celui de rendre notre patron heureux, faire de l'argent pour quelqu'un d'autre, ou peut-être faire de l'argent pour nous-même … mais dans quel but ?
 
 La roue ne s'arrête jamais. Il n'y a jamais de fin parce qu'il n'y a pas de destination.
 
-Mais devinez quoi ? Le voyage *est* la destination. Nous sommes déjà arrivés — ce que nous faisons aujourd'hui est ce qu'est notre vie, tout y est. Est-ce qu'être occupé est le sens de notre vie ? Ou est-ce qu'il y a autre chose ? Est-ce qu'il existe une vie meilleure ?
+Mais devinez quoi ? Le voyage *est* la destination. Nous sommes déjà arrivés — ce que nous faisons aujourd'hui est ce qu'est notre vie, tout y est. Est-ce qu'être occupé est le sens de notre vie ? Ou est-ce qu'il y a autre chose ? Est-ce qu'il existe une vie meilleure ?
 
 Je crois que nous devrions éviter l'affairisme au profit de choses qui ont plus de valeur. Éviter l'urgent au profit de l'important. Et même là, si nous faisons des choses importantes, nous ne devrions pas remplir chaque minute avec des choses importantes. Nous devons apprendre à nous détendre, et être heureux, et apprécier la vie. Autrement, elle n'est pas digne d'être vécue.
 
@@ -38,11 +38,11 @@ Nous devons découvrir ce que c'est de ne `rien faire <http://zenhabits.net/2007
 Comment être moins occupé
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Tout commence par une décision : je veux être moins occupé. Je ne veux plus continuer.
+Tout commence par une décision : je veux être moins occupé. Je ne veux plus continuer.
 
 Ce qui suit dépends du contrôle que vous avez sur vos journées.
 
-**Si vous avez au moins un peu de contrôle** : Faites deux listes : votre journée idéale, et toutes les choses qui la remplissent en général (tous vos engagements). Commencez par supprimer les engagements qui ne sont pas essentiels, qui ne font pas partie de votre journée idéale — appelez ou emailez les personnes et dites leur que vous ne pouvez plus le faire, que vous n'avez plus le temps. Les gens seront déçus, mais ils survivront.
+**Si vous avez au moins un peu de contrôle** : Faites deux listes : votre journée idéale, et toutes les choses qui la remplissent en général (tous vos engagements). Commencez par supprimer les engagements qui ne sont pas essentiels, qui ne font pas partie de votre journée idéale — appelez ou emailez les personnes et dites leur que vous ne pouvez plus le faire, que vous n'avez plus le temps. Les gens seront déçus, mais ils survivront.
 
 Ensuite prenez votre emploi du temps idéal. Faites en sorte qu'il y ait du temps pour chaque chose, pour ne pas être pressé. Laissez de gros blocs de temps libre, pour vous concentrer sur la création ou pour faire ce qu'il vous plait. Réservez au moins un moment pour faire des choses non liées au travail, que ce soit pour passer du temps en famille, faire du sport, un loisir, ou juste pour se détendre.
 
@@ -56,7 +56,7 @@ Faites une seule tâche à la fois au lieu de plusieurs en même temps. Concentr
 
 Et appréciez le calme. Détendez-vous, faites des siestes, `respirez <http://zenhabits.net/2009/07/breathe/>`_.
 
-**Si vous n'avez pas beaucoup de contrôle** : Voyez ce que vous pouvez mettre en œuvre de ce qui a été listé plus haut — vous pourriez obtenir plus que ce que vous ne pensiez. Planifiez une journée idéale, en éliminant les engagement, simplifiant votre liste de tâches, faisant une tâche à la fois, supprimant les distractions et interruptions … la plupart des gens peuvent faire la majorité de ces choses, et sinon, au moins quelques-unes.
+**Si vous n'avez pas beaucoup de contrôle** : Voyez ce que vous pouvez mettre en œuvre de ce qui a été listé plus haut — vous pourriez obtenir plus que ce que vous ne pensiez. Planifiez une journée idéale, en éliminant les engagement, simplifiant votre liste de tâches, faisant une tâche à la fois, supprimant les distractions et interruptions … la plupart des gens peuvent faire la majorité de ces choses, et sinon, au moins quelques-unes.
 
 Enfin, parlez à votre patron. Dites lui que vous aimeriez être plus “productif” et que les interruptions et réunions vous empêchent d'accomplir des choses plus importantes. Dites à votre patron ce que vous aimeriez accomplir, et ce que vous aimeriez changer de votre emploi du temps. Trouvez un compromis.
 

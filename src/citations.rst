@@ -4,7 +4,7 @@ Citations
 
 Traduction de http://mnmlist.com/quotes/.
 
-Quelques une de mes citations préférées sur le minimalisme :
+Quelques une de mes citations préférées sur le minimalisme :
 
 “Contentez-vous de ce que vous avez, réjouissez-vous de la façon dont les choses sont. Quand on se rends compte que rien ne manque, le monde entier vous appartient.” - **Lao Tzu**
 
@@ -14,7 +14,7 @@ Quelques une de mes citations préférées sur le minimalisme :
 
 “Ayez moins peur, espérez plus; mangez moins, mâchez plus; plaignez-vous moins, respirez plus; parlez moins, dites plus; aimez plus, et toutes les bonnes choses seront à vous” - **Proverbe suédois**
 
-“Simplicité, simplicité, simplicité ! Je dis que vos affaires soient au nombre de un, deux, trois et jusqu'à une centaine ou un millier. Nous sommes heureux en proportion de ce dont on peut se passer.” - **Henry David Thoreau**
+“Simplicité, simplicité, simplicité ! Je dis que vos affaires soient au nombre de un, deux, trois et jusqu'à une centaine ou un millier. Nous sommes heureux en proportion de ce dont on peut se passer.” - **Henry David Thoreau**
 
 “Pluralité ne doit pas être prise sans nécessité.” - **Guillaume d'Ockham (aussi connu comme le "Rasoir d'Ockham")**
 
@@ -24,7 +24,7 @@ Quelques une de mes citations préférées sur le minimalisme :
 
 “La nature ne se presse point, et pourtant tout est accompli.” - **Lao Tzu**
 
-“Trois règles du tavail : trouvez la simplicité dans l'encombrement, trouvez l'harmonie dans la discorde, c'est dans la difficulté que se trouve l'opportunité.” - **Albert Einstein**
+“Trois règles du tavail : trouvez la simplicité dans l'encombrement, trouvez l'harmonie dans la discorde, c'est dans la difficulté que se trouve l'opportunité.” - **Albert Einstein**
 
 “Un bon voyageur n'a pas de plans fixes, et ne compte pas arriver.” - **Lao Tzu**
 
@@ -66,9 +66,9 @@ Quelques une de mes citations préférées sur le minimalisme :
 
 “La vie est vraiment simple, mais nous insistons pour la rendre plus compliquée.” - **Confucius**
 
-“Simplicité, clarté, singularité : ce sont les attributs qui donnent à nos vies puissance, vivacité et joie.” - **Richard Halloway**
+“Simplicité, clarté, singularité : ce sont les attributs qui donnent à nos vies puissance, vivacité et joie.” - **Richard Halloway**
 
-“Notre vie est gaspillée dans les détails… simplifiez, simplifiez, simplifiez ! … simplicité de vie et élévation du but.” - **Henry David Thoreau**
+“Notre vie est gaspillée dans les détails… simplifiez, simplifiez, simplifiez ! … simplicité de vie et élévation du but.” - **Henry David Thoreau**
 
 “Nous n'avons pas besoin d'augmenter nos possessions autant que nous avons besoin de réduire nos envies. Ne pas vouloir quelque chose est aussi bien que de le posséder” - **Donald Horban**
 

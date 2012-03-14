@@ -8,13 +8,13 @@ Quand il s'agit de la mise en pratique du minimalisme, les distractions sont le 
 
 Nous devons tout d'abord identifier ce qui est le plus important à nos yeux, ce qui nous passionne, ce qu'on veut faire de notre temps. Puis nous devons nous concentrer sur ces choses en premier.
 
-Mais les distractions. Elles nous empêchent de nous concentrer, pas vrai ?
+Mais les distractions. Elles nous empêchent de nous concentrer, pas vrai ?
 
 Et c'est pourquoi nous devons pourchasser les distractions avec le zèle d'un dictateur maniaque. Sans le bain de sang, vous voyez.
 
 Sans distractions, vous pourrez vous concentrer. Vous trouverez la paix. Vous trouverez le temps pour faire ce que vous aimez.
 
-Voici comment :
+Voici comment :
 
 * Réduisez vos réseaux sociaux à un seul réseau (ou deux au maximum) – en comptant Twitter, Facebook, MySpace, les forums, etc. Ils sont très distrayants.
 * Réduisez au maximum vos “amis” des réseaux sociaux. Conservez vos vrais amis et collègues. Réseauter avec des milliers de gens que vous ne connaissez pas est superficiel et distrayant.

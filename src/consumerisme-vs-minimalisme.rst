@@ -18,15 +18,15 @@ Même avant l'arrivée de la publicité, ce type de désirs n'étaient pas aussi
 
 Malheureusement, ça veut dire que nous voulons toujours acheter plus, et toujours dépenser plus. Ce qui signifie que nous devons soit nous endetter, soit travailler plus pour gagner plus. Ou les deux. Et de nos jours, les foyers ont besoin de deux salariés — contrairement à seulement 50-60 ans en arrière, où il n'y avait la nécessité que pour un seul salarié — en partie parce que nous essayons de subvenir à un style de vie onéreux (et aussi parce que nous sommes nettement moins bien rémunérés). Nous sommes aussi plus endettés qu'auparavant.
 
-Il faut s'arrêter et nous demander — pourquoi tout ça ? Pourquoi est-ce que nous travaillons plus dur afin d'acheter autant, pour avoir autant, pour être accablés et encombrés par autant ?
+Il faut s'arrêter et nous demander — pourquoi tout ça ? Pourquoi est-ce que nous travaillons plus dur afin d'acheter autant, pour avoir autant, pour être accablés et encombrés par autant ?
 
 C'est juste trop. Les minimalistes disent, “Je descends de ce manège. Je me retire.”
 
-Le minimaliste compare d'abord les besoins et les envies — est-ce que c'est un réel besoin, ou est-ce simplement un désir créé par la pub ? Et si c'est une envie, un désir, il ne l'achète pas.
+Le minimaliste compare d'abord les besoins et les envies — est-ce que c'est un réel besoin, ou est-ce simplement un désir créé par la pub ? Et si c'est une envie, un désir, il ne l'achète pas.
 
 Le minimaliste apprends lentement à se séparer des désirs. Ça n'arrive pas du jour au lendemain, mais ça peut se produire, graduellement, avec un effort conscient.
 
-Voici comment j'y arrive :
+Voici comment j'y arrive :
 
 * Apprendre à être plus conscient de mes pulsions quand je suis prêt à acheter quelque chose.
 * Apprendre à m'arrêter, et à respirer, pour laisser le désir physique décliner.

@@ -8,7 +8,7 @@ Traduction de http://mnmlist.com/why-less-stuff-is-better/.
 
 Les gens me regardent parfois d'un air railleur quand je proclame que je n'ai pas besoin de plus de choses, et que je suis continuellement en train de me débarrasser de ce que j'ai. 
 
-Quel type bizarroïde, pourquoi vouloir moins de choses ?
+Quel type bizarroïde, pourquoi vouloir moins de choses ?
 
 Moins, c'est mieux.
 
@@ -24,7 +24,7 @@ Moins est plus durable, plus beau.
 
 —
 
-**Si vous êtes intéressés par une vie de minimalisme, consultez mon nouvel ebook :** `The Simple Guide to a Minimalist Life <http://zenhabits.net/2009/09/my-new-ebook-the-simple-guide-to-a-minimalist-life/>`_.
+**Si vous êtes intéressés par une vie de minimalisme, consultez mon nouvel ebook :** `The Simple Guide to a Minimalist Life <http://zenhabits.net/2009/09/my-new-ebook-the-simple-guide-to-a-minimalist-life/>`_.
 
 .. image:: images/minimalistguide.png
     :alt: Couverture du livre "The Simple Guide to a Minimalist Life"
