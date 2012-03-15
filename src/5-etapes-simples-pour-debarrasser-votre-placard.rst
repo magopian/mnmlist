@@ -22,7 +22,7 @@ Voici comment le faire, simplement. Prenez note : nous n'allons pas vous appren
 Quelques astuces supplémentaires :
 
 * Gardez le sol aussi dégagé que possible. Si vous pouvez le garder totalement dégagé, c'est encore mieux. C'est beaucoup plus facile de nettoyer comme ça, et ça a l'air nettement moins encombré.
-* Étiquetez les boites de rangement. Des boites de rangement vides c'est encore mieux mieux, mais des étiquettes c'est bien (il suffit d'utiliser du scotch avec un marqueur) pour pouvoir facilement trouver vos affaires.
+* Étiquetez les boites de rangement. Des boites de rangement vides c'est encore mieux, mais des étiquettes c'est bien (il suffit d'utiliser du scotch avec un marqueur) pour pouvoir facilement trouver vos affaires.
 * Rangez vos vêtements par couleurs, si vous êtes psychorigide comme moi. Ça a l'air bien plus organisé.
 * Si vous avez toujours trop d'affaires, recommencez. Il y a toujours plus d'affaires dont on peut se séparer après la purge initiale.
 
