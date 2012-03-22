@@ -4,10 +4,10 @@ Citations
 
 Traduction de http://mnmlist.com/quotes/.
 
-Quelques une de mes citations préférées sur le minimalisme :
+Quelques-unes de mes citations préférées sur le minimalisme :
 
 « Contentez-vous de ce que vous avez, réjouissez-vous de la façon dont les
-choses sont. Quand on se rends compte que rien ne manque, le monde entier vous
+choses sont. Quand on se rend compte que rien ne manque, le monde entier vous
 appartient. » - **Lao Tzu**
 
 « La perfection est atteinte, non pas quand il n'y a plus rien à ajouter, mais
@@ -16,8 +16,8 @@ quand il n'y a plus rien à enlever » - **Antoine de Saint-Exupéry**
 « Tout devrait être rendu aussi simple que possible, mais pas plus simple. » -
 **Albert Einstein**
 
-« Ayez moins peur, espérez plus; mangez moins, mâchez plus; plaignez-vous
-moins, respirez plus; parlez moins, dites plus; aimez plus, et toutes les
+« Ayez moins peur, espérez plus; mangez moins, mâchez plus ; plaignez-vous
+moins, respirez plus ; parlez moins, dites plus ; aimez plus, et toutes les
 bonnes choses seront à vous » - **Proverbe suédois**
 
 « Simplicité, simplicité, simplicité ! Je dis que vos affaires soient au nombre
@@ -59,7 +59,7 @@ meublant. » - **Francis Jourdain**
 - **William Morris**
 
 « Nous attribuons la beauté à ce qui est simple, qui n'a pas de pièces
-superflues, qui réponds exactement à son dessein. » - **Ralph Waldo Emerson**
+superflues, qui répond exactement à son dessein. » - **Ralph Waldo Emerson**
 
 « Quand on se contente d'être simplement soi-même, qu'on ne se compare pas ni
 qu'on entre en compétition, tout le monde vous respecte. » - **Lao Tzu**
