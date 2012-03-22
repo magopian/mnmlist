@@ -11,7 +11,7 @@ nos vies, on sort et on s'achète quelque chose :
 * Si on veut perdre du poids, on achète de la nourriture diététique, un
   appareil d'exercice ou un abonnement à la salle de musculation.
 * Si on veut aider l'environnement, on achète des produits écologiques.
-* Pour ne plus être endetté, on engage un planificateur financier ou un nouveau
+* Pour ne plus être endetté, on engage un conseiller financier ou un nouveau
   logiciel de compta.
 * Pour économiser du carburant, on achète une voiture économique (voire une
   hybride).
