@@ -16,7 +16,7 @@ nos vies, on sort et on s'achète quelque chose :
 * Pour économiser du carburant, on achète une voiture économique (voire une
   hybride).
 * Pour démarrer un nouveau loisir, on s'achète du matériel ou de l'équipement.
-* Quoi que ce soit qu'on souhaite faire, on s'achète de nouveaux vêtement pour
+* Quoi que ce soit qu'on souhaite faire, on s'achète de nouveaux vêtements pour
   ça (tenue de sport, bleu de travail, tenue de yoga, vêtements habillés).
 * Pour améliorer l'intérieur de notre maison, on achète de nouveaux meubles et
   décorations.
