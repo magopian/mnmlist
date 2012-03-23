@@ -1,4 +1,4 @@
-Comment convaincre les non minimalistes
+Comment convaincre les non-minimalistes
 #######################################
 :date: 2012-03-07 08:03
 
@@ -22,7 +22,7 @@ Comment faire ? Quelle est la solution la plus simple ?
 Il n'y en a pas.
 
 Gérer des gens qui aiment entasser, s'encombrer, qui sont désordonnés, ou tout
-simplement qui s'en fichent du minimalisme … n'est pas aisé. C'est tellement
+simplement qui s'en fichent du minimalisme… n'est pas aisé. C'est tellement
 plus facile de vivre seul sans avoir à se soucier des habitudes et préférences
 des autres, mais beaucoup d'entre nous n'ont pas ce “luxe” (bien qu'il y ait
 quelques avantages à vivre avec ceux qui vous aiment).
@@ -51,7 +51,7 @@ certainement différent.
    négativement si ils se sentent harcelés ou forcés de faire quoi que ce soit.
 #. **Instruire**. Les gens sont souvent contre le changement parce qu'ils n'en
    savent pas assez. Combattez cette ignorance avec votre instruction sans être
-   pédants. Parlez à vos êtres aimés de ce que vous faites et pourquoi.
+   pédant. Parlez à vos êtres aimés de ce que vous faites et pourquoi.
    Montrez-leur des exemples de personnes qui vous inspirent. Envoyez-leur des
    liens vers mnmlist.com, Zen Habits et d'autres blogs et magazines que vous
    appréciez — pas comme une allusion, mais pour partager les choses qui vous
@@ -59,12 +59,12 @@ certainement différent.
    peut-être, vous rejoindre.
 #. **Demander de l'aide**. Vos êtres aimés, très vraisemblablement,
    s'intéressent à vous. Ils veulent que vous soyez heureux — mais veulent eux
-   aussi être heureux. Profitez du désir de vos amis de vous rendre heureux …
+   aussi être heureux. Profitez du désir de vos amis de vous rendre heureux…
    demandez-leur de l'aide. Dites-leur “J'ai besoin d'aide pour atteindre la
    vie de minimalisme que je veux. Est-ce que tu crois que tu peux m'aider ?”
    Bien sûr, si vous les avez instruits, ils savent déjà ce que vous voulez,
    mais la plupart des gens seraient ravis de vous aider s'ils en ont la
-   possibilité. Ne leur demandez pas de changer, mais demandez leur si ils
+   possibilité. Ne leur demandez pas de changer, mais demandez-leur s'ils
    peuvent vous aider à désencombrer, garder certains endroits dégagés, ou
    trouver une solution à un problème que vous avez.
 #. **Mettre des limites**. Si vous ne pouvez pas convaincre un être aimé, ça
@@ -73,7 +73,7 @@ certainement différent.
    tracassez pas. Pour les adultes, vous pouvez indiquer certaines pièces ou
    espaces comme étant les vôtres ou les leurs. Je connais des personnes qui
    ont partagé leurs pièces ou la maison entière en deux — un des côtés était
-   dégagé, et l'autre … pas.
+   dégagé, et l'autre… pas.
 #. **Trouver des compromis**. Vivre avec d'autres implique de trouver un style
    de vie qui convienne à tout le monde. Ça peut vouloir dire que vous devrez
    lâcher un peu, si vous voulez leur demander qu'ils lâchent un peu de leur
