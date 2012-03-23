@@ -6,11 +6,11 @@ Traduction de http://mnmlist.com/on-owning-nothing/.
 
 Alors que le minimalisme consiste à s'efforcer de posséder peu — pas bien plus
 que ce qu'on nécessite — pourquoi ne pas pousser ça à l'extrême, juste pour
-voir.
+voir ?
 
 Et si on ne possédait rien du tout ?
 
-Je ne veux pas dire qu'on ne devrait avoir ni vêtement ni abri ni outils, mais
+Je ne veux pas dire qu'on ne devrait avoir ni vêtement, ni abri, ni outil, mais
 plutôt qu'on abandonne l'idée de la propriété privée. C'est une idée extrême
 (bien que déjà connue), mais à réfléchir.
 
@@ -43,16 +43,16 @@ Mais pourquoi envisager un changement si radical ? Quelques raisons :
 * J'aime l'idée de vivre avec très peu — n'utilisant que ce dont on a besoin,
   en rendant le reste à la communauté, sans jamais avoir le fardeau des
   possessions matérielles.
-* La possession telle qu'on la connait est un gaspillage — nous gardons souvent
+* La possession telle qu'on la connaît est un gaspillage — nous gardons souvent
   des choses dont on ne se sert pas, qui seraient utiles à d'autres, parce
   qu'on les as achetées et qu'on les possède. Mais si on ne gardait que les
   choses qu'on utilise, et qu'on rendait celles dont on a plus l'utilité, dans
-  l'idée où on pourrait toujours les avoir quand on en aura besoin, il y aurait
+  l'idée où on pourrait toujours les avoir quand on en aurait besoin, il y aurait
   moins de gâchis. Moins de remplissage des décharges aussi.
 * Les gens qui ont besoin de choses — telles que les habits et un abri —
   pourraient en avoir.
 * Il y aurait beaucoup moins d'accumulation de richesses dans les mains de
-  quelques uns, ce qui a l'air d'être une très mauvaise idée pour la société.
+  quelques-uns, ce qui a l'air d'être une très mauvaise idée pour la société.
   Ça crée une pauvreté extrême, du crime et de la misère. Là où l'inégalité des
   revenus est faible, il y a plus de bonheur et moins de crime (`Lisez ceci
   <http://theminimalist.net/2009/05/14/income-distribution-vs-happiness/>`_
@@ -62,7 +62,7 @@ Bref. Ça ne risque pas d'arriver dans la journée, et je ne pense pas que ça l
 devrait. Encore une fois, c'est juste un sujet de réflexion.
 
 Je sais que certaines personnes brandiront des expériences ratées comme l'URSS
-où l'abandon de la propriété privée ne marcha pas même un peu. Je suis d'accord
+où l'abandon de la propriété privée ne marcha pas, même un peu. Je suis d'accord
 avec cette évaluation, mais le problème était que tout était contrôlé par le
 gouvernement. Je pense que laisser le gouvernement contrôler la propriété est
 une très mauvaise idée. Les gens devraient contrôler la propriété — nous
