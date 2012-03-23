@@ -58,8 +58,8 @@ Mais pourquoi envisager un changement si radical ? Quelques raisons :
   <http://theminimalist.net/2009/05/14/income-distribution-vs-happiness/>`_
   comme exemple).
 
-Bref. Ça ne risque pas d'arriver dans la journée, et je ne pense pas que ça le
-devrait. Encore une fois, c'est juste un sujet de réflexion.
+Bref. Ça ne risque pas d'arriver du jour au lendemain, et je ne pense pas que
+ça le devrait. Encore une fois, c'est juste un sujet de réflexion.
 
 Je sais que certaines personnes brandiront des expériences ratées comme l'URSS
 où l'abandon de la propriété privée ne marcha pas, même un peu. Je suis d'accord
