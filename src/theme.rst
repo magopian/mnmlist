@@ -5,8 +5,8 @@ Thème
 Traduction de http://mnmlist.com/theme/.
 
 (NdT : si vous cherchez la version du thème adaptée pour `pelican
-<https://github.com/ametaireau/pelican>`_, elle est disponible sur le `dépôt
-github <https://github.com/ametaireau/pelican-themes/tree/master/mnmlist>`_).
+<https://github.com/getpelican/pelican>`_, elle est disponible sur le `dépôt
+github <https://github.com/getpelican/pelican-themes/tree/master/mnmlist>`_).
 
 Nouveau : la version trois du thème mnmlist est là !
 
